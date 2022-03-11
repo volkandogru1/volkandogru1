@@ -1,7 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=volkandogru1&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dogruvolkan1&show_icons=true">
 
 # Merhaba, ben Volkan Doğru! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volkandogru1" alt="volkandogru1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogruvolkan" alt="dogruvolkan" /> </p>
 
 [![](https://img.shields.io/twitter/follow/1volkandogru?style=social)](https://www.twitter.com/1volkandogru)
 [![](https://img.shields.io/github/followers/volkandogru1?style=social)](https://www.github.com/volkandogru1)
