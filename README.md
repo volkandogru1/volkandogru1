@@ -3,15 +3,16 @@
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Full+Stack+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
+<br>
+
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dogruvolkan-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="volkan doğru" /> 
   </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 <br>
 
@@ -33,8 +34,7 @@
   <a href="https://www.linkedin.com/in/volkandogru1/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-     <a href="https://www.php.net/" target="blank">
-    <img align="center" alt="PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/> </a> 
+     
   <a href="https://www.hackerrank.com/volkandogru11" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
@@ -57,6 +57,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
+    <a href="https://www.php.net/" target="blank">
+    <img align="center" alt="PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
       </p>
