@@ -35,15 +35,17 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogruvolkan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="dogruvolkan" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogruvolkan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dogruvolkan" />
+  
+  <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogruvolkan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dogruvolkan" /></p>
+</p>
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogruvolkan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="dogruvolkan" /></p>
+
       
- <p align="center"><a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 
 
 
  
