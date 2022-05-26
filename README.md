@@ -4,40 +4,26 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Full+Stack+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Front-end+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <br>
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<br>
 
 - 📫 How to reach me **volkandogrubsm@gmail.com**
 
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dogruvolkan&label=Profile%20views&color=0e75b6&style=plastic" alt="dogruvolkan" /> </p>
-
 
