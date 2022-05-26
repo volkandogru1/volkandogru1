@@ -25,5 +25,5 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dogruvolkan&label=Profile%20views&color=0e75b6&style=plastic" alt="dogruvolkan" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=dogruvolkan&label=Profile%20views&color=0e75b6&style=plastic" alt="dogruvolkan" /> </p>
 
