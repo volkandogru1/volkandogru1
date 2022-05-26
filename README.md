@@ -6,7 +6,7 @@
 </p>
 
 <br>
-- 📫 How to reach me **volkandogrubsm@gmail.com**
+- 📫 [How to reach me](mailto:volkandogrubsm@gmail.com)
 <br>
 
 ### Languages and Tools:
