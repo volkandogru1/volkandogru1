@@ -6,9 +6,9 @@
 </p>
 
 <br>
-- 📫 [How to reach me](mailto:volkandogrubsm@gmail.com)
-- [Contact Us](mailto:admin@cloudhadoop.com
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+- 📫 How to reach me **volkandogrubsm@gmail.com**
+
 <br>
 
 ### Languages and Tools:
