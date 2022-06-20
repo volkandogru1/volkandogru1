@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Volkan Doğru</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Student at the Sakarya University🌟</h3>
 <br>
 <p align="center">
