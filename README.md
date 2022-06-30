@@ -24,5 +24,5 @@
 <br>
 <br>
 
-![snake gif](https://github.com/dogruvolkan/volkandogru/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/dogruvolkan/volkandogru/blob/output/github-contribution-grid-snake.gif)
 
