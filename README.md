@@ -5,6 +5,8 @@
   <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Front-end+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+- 🌱 I’m currently learning **React** and **Redux**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 - 📫 How to reach me **volkandogrubsm@gmail.com**
 <br>
 
@@ -19,5 +21,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-![snake gif](https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif)
+<br>
+<br>
+
+![snake gif](https://github.com/dogruvolkan/volkandogru/blob/output/github-contribution-grid-snake.gif)
 
