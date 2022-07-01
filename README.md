@@ -5,6 +5,11 @@
   <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Front-end+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+[![Twitter: volkan](https://img.shields.io/twitter/follow/1volkandogru?style=social)](https://twitter.com/1volkandogru)
+[![Linkedin: volkan](https://img.shields.io/badge/-1volkandogru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/1volkandogru/)](https://www.linkedin.com/in/1volkandogru/)
+[![GitHub volkan](https://img.shields.io/github/followers/dogruvolkan?label=follow&style=social)](https://github.com/dogruvolkan)
+
+
 - 🌱 I’m currently learning **React** and **Redux**
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 - 📫 How to reach me **volkandogrubsm@gmail.com**
@@ -23,6 +28,8 @@
 
 <br>
 <br>
+
+
 
 ![](https://github.com/dogruvolkan/volkandogru/blob/output/github-contribution-grid-snake.gif)
 
