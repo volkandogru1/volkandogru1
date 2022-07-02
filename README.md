@@ -1,8 +1,8 @@
-<h1 align="center">Hi I'm Volkan👋</h1>
+<h1 align="center">Hi I'm Volkan Doğru👋</h1>
 <h3 align="center">Student at the Sakarya University🌟</h3>
 <br>
 <p align="center">
-  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Front-end+Web+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/dogruvolkan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Engineering+Student;Front-end+Developer;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 [![Twitter: volkan](https://img.shields.io/twitter/follow/1volkandogru?style=social)](https://twitter.com/1volkandogru)
