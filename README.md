@@ -28,7 +28,8 @@
 <br>
 <br>
 
+![]("https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif")
 
-<img src="https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif"/ >
+
 
 
