@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React** and **Redux**
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
-- 📫 How to reach me **volkandogrubsm@gmail.com**
+- 📫 How to reach me :  <a href="mailto:volkandogrubsm@gmail.com">Send me mail</a>
 <br>
 
 ### Languages and Tools:
