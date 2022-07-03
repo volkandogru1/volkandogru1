@@ -28,7 +28,12 @@
 <br>
 <br>
 
-![snake](https://github.com/dogruvolkan/dogruvolkan.github.io/blob/output/github-contribution-grid-snake.svg)
+
+
+<img src="https://github.com/dogruvolkan/dogruvolkan.github.io/blob/output/github-contribution-grid-snake.svg"/>
+<br>
+
+
 
 
 
