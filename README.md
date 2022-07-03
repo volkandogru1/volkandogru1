@@ -29,6 +29,7 @@
 <br>
 
 
-<a href="https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif">dssd</a>
+<img src="https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif"/>
+<br>
 ![](https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif)
 
