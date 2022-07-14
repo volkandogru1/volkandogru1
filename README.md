@@ -30,7 +30,7 @@
 
 
 
-<img src="https://github.com/dogruvolkan/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/dogruvolkan/dogruvolkan/blob/output/github-contribution-grid-snake.gif"/>
 <br>
 
 
